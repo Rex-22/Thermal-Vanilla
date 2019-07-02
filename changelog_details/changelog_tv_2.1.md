@@ -7,7 +7,7 @@
 * Update Roots to the new version, meaning Mystical World is added. (Don't be alarmed if you get a warning when opening your world)
 * Lots of small config tweaks
 * Removed all the books you spawn with (use the Akashic tome)
-* Started added a in-game guid for some mods, very WIP
+* Started added a in-game guide for some mods, very WIP
 
 §b§lMods Added:
 * Armory Expansion
