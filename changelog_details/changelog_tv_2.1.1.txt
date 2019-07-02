@@ -1,0 +1,7 @@
+Thermal Vanilla 2.1 to Thermal Vanilla 2.1.1
+
+Added 2 files:
+	- MPUtils
+	- MPUtils Basic Tools
+
+* Generated using https://github.com/TheRandomLabs/ChangelogGenerator (1.15)
