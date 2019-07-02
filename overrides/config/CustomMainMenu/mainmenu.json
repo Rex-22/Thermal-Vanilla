@@ -28,7 +28,7 @@
         {
             "text" : "menu.singleplayer",
             "posX" : 55,
-            "posY" : -35,
+            "posY" : -45,
             "width" : 90,
             "height" : 20,
             "alignment" : "left_center",
@@ -43,7 +43,7 @@
         {
             "text" : "menu.multiplayer",
             "posX" : 55,
-            "posY" : -10,
+            "posY" : -20,
             "width" : 90,
             "height" : 20,
             "alignment" : "left_center",
@@ -58,7 +58,7 @@
         {
             "text" : "Mods (#modsactive#/#modsloaded#)",
             "posX" : 55,
-            "posY" : 15,
+            "posY" : 5,
             "width" : 90,
             "height" : 20,
             "alignment" : "left_center",
@@ -67,6 +67,26 @@
                 "type" : "openGui",
                 "gui" : "mods"
             }
+        },
+		"changelog":
+        {
+            "text" : "Change Log",
+            "posX" : 55,
+            "posY" : 40,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+			"wrappedButton" : 401
+        },
+		"reportbug":
+        {
+            "text" : "Report Bug",
+            "posX" : 55,
+            "posY" : 65,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+			"wrappedButton" : 402
         },
             
         "options":
