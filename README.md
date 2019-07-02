@@ -1,7 +1,7 @@
 # Thermal-Vanilla
 
 #### Curse Links: 
-+ [![Thermal Vanilla](https://cf.way2muchnoise.eu/thermal-vanilla.svg "TV") Thermal Vanilla](https://www.curseforge.com/minecraft/modpacks/thermal-vanilla)
++ [![Thermal Vanilla](http://cf.way2muchnoise.eu/thermal-vanilla.svg "TV") Thermal Vanilla](https://minecraft.curseforge.com/projects/thermal-vanilla) 
 
 ## Description
 A light weight modpack that intended for small-medium servers or single-player. The focus is not on a single mod (Despite the name) but instead offers a you choice on what to focus on. The intended way to play this pack is with friends who are not all that familiar with modded Minecraft and offer a learning experience by providing some of the mods commonly used in other modpacks to introduce them to the shenanigans that is modded Minecraft.
